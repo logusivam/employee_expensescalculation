@@ -13,7 +13,7 @@ This C++ program calculates employee expenses based on user inputs such as emplo
 To use this project, simply download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/employee-expense-calculation.git
+git clone https://github.com/logusivam/employee-expense-calculation.git
 ```
 
 Alternatively, you can directly copy the main.cpp file into your project directory.
