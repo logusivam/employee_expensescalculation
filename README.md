@@ -1,0 +1,1 @@
+This C++ program calculates employee expenses based on user inputs such as employee details and financial components (basic salary, allowances, deductions). It then computes the net amount and displays the details in a structured format
