@@ -28,7 +28,7 @@ g++ main.cpp -o employee_expensescalculation
 
 3. Run the compiled executable:
 ```
-./employee_expense_calculation
+./expensecalculation
 ```
 
 Follow the on-screen instructions to input employee details and financial components.
@@ -62,7 +62,13 @@ GPay Deduction: 1500
 Other Deductions: 3000
 
 Net Amount: 67500
+```
 
+# Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
